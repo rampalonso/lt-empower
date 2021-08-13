@@ -10,7 +10,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "cogo-toast": "^4.2.3",
-    "next": "9.3.4",
+    "next": "11.1.0",
     "next-compose-plugins": "^2.2.0",
     "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
